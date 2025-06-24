@@ -22,6 +22,10 @@
 	<img src="imagem/Olá Mundo.png" alt="Imagem com figuras geométricas ao fundo e uma figura do planeta Terra a frente, com a inscrição Olá Mundo em letras coloridas">
     </section>
 
+    </section>
+      <img src="2.jpg>
+      </section>
+
     <footer>
         <p>Uma página desenvolvida por Alura Start</p>
     </footer>
