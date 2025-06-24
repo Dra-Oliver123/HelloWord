@@ -23,7 +23,7 @@
     </section>
 
     </section>
-      <img src="2.jpg>
+      <img src="imagee/2.jpg>
       </section>
 
     <footer>
